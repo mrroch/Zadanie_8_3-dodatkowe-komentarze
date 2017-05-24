@@ -1,0 +1,26 @@
+{
+  "name": "jshint_exercise",
+  "version": "1.0.0",
+  "description": "example jshint project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "jshint"
+  ],
+  "author": "Michał Roch",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
